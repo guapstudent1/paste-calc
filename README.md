@@ -1,5 +1,7 @@
-# paste-calc
-Easy window interface to console calculator
+# Paste Calc
+## Мгновенный результат
+
+Простой оконный интерфейс к различным консольным калькуляторам
 
 Для компиляции в Visual Studio 17. 
 
